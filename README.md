@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Hello! 👋  I'm <a href="https://github.com/lxs2048">写字台砸乌鸦</a>!</h1>
+<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+
+<p align="center">
+  <strong><a target="_blank" href="https://guiyexing.site">博客</a></strong> ｜
+  <strong><a target="_blank" href="https://space.bilibili.com/396914707">B站</a></strong>
+</p>
 
 <!--
-**hyodage/hyodage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lxs2048/lxs2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
