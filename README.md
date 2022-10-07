@@ -6,6 +6,10 @@
   <strong><a target="_blank" href="https://space.bilibili.com/396914707">B站</a></strong>
 </p>
 
+## 🌱 最近阅读
+
+- 👨🏻‍💻  [为什么有HTTP协议，还要有websocket协议](https://mp.weixin.qq.com/s/jJNdXMNmXcE8wSE0gbtTAQ)
+
 <!--
 **lxs2048/lxs2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
